@@ -2,3 +2,4 @@ pandas
 scikit-learn
 joblib
 pdfplumber
+googletrans==3.1.0a0
