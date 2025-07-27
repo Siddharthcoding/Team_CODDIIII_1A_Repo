@@ -3,6 +3,7 @@ import argparse
 import pandas as pd
 from joblib import load
 import json
+import sys
 import pdfplumber
 import re
 import tempfile
