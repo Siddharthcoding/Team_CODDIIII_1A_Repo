@@ -112,3 +112,28 @@ The user can watch the output in json form which will look like something below:
 ```
 
 The output will be in **output** directory as filename.json
+
+
+# Docker Usage Steps
+
+- Create a folder named input in your required destination. For e.g.
+
+I've created my input folder in Downloads directory.(**In the input folder user is adviced to upload the pdf files from which user wants to extract datas**). 
+
+User have to create an output folder on the same Downloads directory(**Here Downloads DIrectory is used by me it's not necessary for the user to create folder in that directory. User have to change the run command according to that!**)
+
+Output folder is for to store the output JSON files.
+
+So to run the docker I'll do as follows:
+
+```
+docker run -rm -v C:/Users/<your device name>/Downloads/input:/app/input -v C:/Users/<your device name>1/Downloads/output:/app/output chiranjeet12/pdf-processor:hackathon
+
+```
+**Below is an image illustration:**
+- Go to downloads.
+<img width="211" height="236" alt="image" src="https://github.com/user-attachments/assets/b2f5e17c-83ee-4682-9df5-a21e75be8db5" />
+
+- Create 2 folders named input & output.
+<img width="880" height="67" alt="image" src="https://github.com/user-attachments/assets/d858cb4e-ecce-4d23-90fe-f871de9449e6" />
+
