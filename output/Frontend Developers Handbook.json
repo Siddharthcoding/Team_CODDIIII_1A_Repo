@@ -1,0 +1,7720 @@
+{
+  "title": "Front-end Developer",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Front-end Developer",
+      "page": 2,
+      "children": []
+    },
+    {
+      "level": "H3",
+      "text": "Handbook 2019",
+      "page": 2,
+      "children": []
+    },
+    {
+      "level": "H3",
+      "text": "Overview:",
+      "page": 2,
+      "children": []
+    },
+    {
+      "level": "H3",
+      "text": "development.",
+      "page": 2,
+      "children": []
+    },
+    {
+      "level": "H3",
+      "text": "https://github.com/FrontendMasters/front-end-handbook-2019",
+      "page": 4,
+      "children": []
+    },
+    {
+      "level": "H3",
+      "text": "Forward",
+      "page": 4,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "0.1 — Recap of Front-end Development in 2018",
+      "page": 4,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "Reason, Purescript, Elm).",
+      "page": 5,
+      "children": [
+        {
+          "level": "H3",
+          "text": "JavaScript.",
+          "page": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "0.2 — In 2019, Expect...",
+      "page": 6,
+      "children": [
+        {
+          "level": "H3",
+          "text": "solutions.",
+          "page": 7,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Developer?",
+          "page": 7,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "https://en.wikipedia.org/wiki/Front-end_web_development",
+          "page": 8,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Image source: https://www.upwork.com/hiring/development/front-end-developer/",
+          "page": 8,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Chrome",
+          "page": 9,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Safari",
+          "page": 9,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Firefox",
+          "page": 9,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Edge",
+          "page": 9,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Headless Browsers",
+          "page": 9,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Headless Chromium",
+          "page": 10,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Zombie",
+          "page": 10,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "puppeteer",
+          "page": 10,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Webviews",
+          "page": 10,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "native applications.",
+          "page": 10,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Flutter",
+          "page": 11,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "NativeScript",
+          "page": 11,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Notes:",
+          "page": 11,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Development: Overview",
+          "page": 11,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "2.1 - How Front-End Developers Are Made",
+      "page": 11,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Image source: https://github.com/kamranahmedse/developer-roadmap",
+          "page": 13,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "methodologies).",
+          "page": 14,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "patterns.",
+          "page": 15,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Treehouse Techdegree [watch][$]",
+          "page": 15,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Front-End Web Developer Nanodegree [watch][$]",
+          "page": 15,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "freeCodeCamp [interactive][watch]",
+          "page": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "brain works and do that. But, for sure, it is a mix! So, don't just read about it, do it.",
+      "page": 16,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "2.2 - Front-End Job Titles",
+      "page": 16,
+      "children": [
+        {
+          "level": "H3",
+          "text": "JavaScript developer possessing advanced programming, software development,",
+          "page": 17,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "software applications).",
+          "page": 17,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "technologies that support accessibility requirements and standards.",
+          "page": 18,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "practices pertaining to collaboration, integration, deployment, automation, and",
+          "page": 18,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "quality.",
+          "page": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "Notes:",
+      "page": 18,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "2.3 - Baseline Web Technologies Employed by Front-",
+      "page": 18,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "End Developers",
+      "page": 18,
+      "children": [
+        {
+          "level": "H3",
+          "text": "programming language.",
+          "page": 20,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "applications.",
+          "page": 21,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "applications.",
+          "page": 22,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "programming interface (API).",
+          "page": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "404. The ECMA standard is minimal, describing only the allowed",
+      "page": 25,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Most relevant specifications:",
+          "page": 25,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H2",
+      "text": "— Wikipedia",
+      "page": 26,
+      "children": []
+    },
+    {
+      "level": "H2",
+      "text": "2.4 - Potential Front-end Developer Skills",
+      "page": 26,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Image source: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html",
+          "page": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "Node.js",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Cross-Browser Testing",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Cross-Platform Testing",
+      "page": 27,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Unit Testing",
+          "page": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Cross-Device Testing",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Accessibility / WAI-ARIA",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Search Engine Optimization (aka SEO)",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Interaction or User Interface Design",
+      "page": 27,
+      "children": [
+        {
+          "level": "H1",
+          "text": "User Experience",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Usability",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "E-commerce Systems",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Portal Systems",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Wireframing",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSS Layout / Grids",
+          "page": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Manipulation (e.g., jQuery)",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mobile Web Performance",
+      "page": 27,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Load Testing",
+          "page": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Performance Testing",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Progressive Enhancement / Graceful Degradation",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Version Control (e.g., GIT)",
+      "page": 27,
+      "children": [
+        {
+          "level": "H1",
+          "text": "MVC / MVVM / MV*",
+          "page": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Functional Programming",
+      "page": 27,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Data Formats (e.g., JSON, XML)",
+      "page": 27,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Data APIs (e.g Restful API)",
+          "page": 27,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Web Font Embedding",
+          "page": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Scalable Vector Graphics (aka SVG)",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Regular Expressions",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Microdata / Microformats",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Task Runners, Build Tools, Process Automation Tools",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Responsive Web Design",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Object-Oriented Programming",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Application Architecture",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Modules",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Dependency Managers",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Package Managers",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "JavaScript Animation",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Animation",
+          "page": 28,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Charts / Graphs",
+          "page": 28,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "UI Widgets",
+          "page": 28,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Code Quality Testing",
+          "page": 28,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Code Coverage Testing",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Code Complexity Analysis",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Integration Testing",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Command Line / CLI",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Templating Strategies",
+      "page": 28,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Templating Engines",
+          "page": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Single Page Applications",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Web/Browser Security",
+      "page": 28,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browser Developer Tools",
+      "page": 28,
+      "children": [
+        {
+          "level": "H2",
+          "text": "2.5 - Front-End Developers Develop For...",
+          "page": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "A front-end developer crafts HTML, CSS, and JS that typically runs on the web",
+      "page": 29,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "platform (e.g. a web browser) delivered from one of the following operating systems",
+      "page": 29,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Android",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Chromium",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "iOS",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "OS X (i.e. MacOS)",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Windows",
+          "page": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "These operating systems typically run on one or more of the following devices:",
+      "page": 29,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Tablet",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "TV",
+          "page": 29,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Watch",
+          "page": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Things (i.e., anything you can imagine, car, refrigerator, lights, thermostat, etc.)",
+      "page": 29,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Image source: https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/",
+          "page": 30,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Cordova, NW.js, Electron)",
+          "page": 30,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "web technologies. (examples: NativeScript, React Native)",
+          "page": 30,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "2.6 - Front-End on a Team",
+          "page": 31,
+          "children": [
+            {
+              "level": "H3",
+              "text": "technologies.",
+              "page": 31,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "UI/Interaction Designer/Information Architect (i.e., wireframes, specifying all user",
+              "page": 31,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "interactions and UI functionality, structuring information)",
+              "page": 31,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Performance Engineers",
+              "page": 31,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Database Administrators",
+              "page": 31,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "2.7 - Generalist/Full-Stack Myth",
+          "page": 32,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Image source: https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-",
+              "page": 33,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "4104e29b2781#.ngcpn8nlz",
+          "page": 33,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Image source: https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types",
+              "page": 34,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "rare.",
+              "page": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "2.8 - Front-End Interviews",
+          "page": 35,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "Preparing:",
+          "page": 35,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "Front End Interview Handbook",
+          "page": 35,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Interview Questions for Front-End-Developer",
+              "page": 36,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer))",
+      "page": 36,
+      "children": [
+        {
+          "level": "H2",
+          "text": "2.9 - Front-End Job Boards",
+          "page": 36,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "A plethora of technical job listing outlets exist. The narrowed list below are currently",
+      "page": 36,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "the most relevant resources for finding a specific front-end position/career.",
+      "page": 36,
+      "children": [
+        {
+          "level": "H3",
+          "text": "authenticjobs.com",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "careers.stackoverflow.com",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "css-tricks.com/jobs",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "frontenddeveloperjob.com",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "glassdoor.com",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "jobs.github.com",
+          "page": 36,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "linkedin.com",
+          "page": 37,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "weworkremotely.com",
+          "page": 37,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "www.smashingmagazine.com/jobs/",
+          "page": 37,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Notes:",
+          "page": 37,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "companies.",
+          "page": 37,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "2.10 - Front-End Salaries",
+          "page": 37,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Notes:",
+              "page": 37,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Directed Resources/Recommendations",
+              "page": 38,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "front-end developer.",
+              "page": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.1. - Learn Internet/Web",
+          "page": 38,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Image source: https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/",
+      "page": 39,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Internet Fundamentals [watch]",
+          "page": 39,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "How does the Internet work? https://developer.mozilla.org/en-",
+          "page": 39,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "US/docs/Learn/Common_questions/How_does_the_Internet_work and",
+          "page": 39,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "http://web.stanford.edu/class/msande91si/www-",
+          "page": 39,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "spr04/readings/week1/InternetWhitepaper.htm [read]",
+          "page": 39,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Image source: http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/",
+          "page": 40,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.2. - Learn Web Browsers",
+          "page": 40,
+          "children": [
+            {
+              "level": "H3",
+              "text": "application for retrieving, presenting, and traversing information",
+              "page": 40,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Image source: http://gs.statcounter.com/browser-market-share",
+              "page": 41,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "evolutionoftheweb.com [read]",
+              "page": 41,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "20 Things I Learned About Browsers and the Web [read]",
+          "page": 42,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Website Performance Optimization [watch]",
+              "page": 42,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Comparing Browsers",
+              "page": 42,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "browserhacks.com [read]",
+              "page": 42,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Evergreen Browsers",
+              "page": 43,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.3 - Learn Domain Name System (aka DNS)",
+          "page": 43,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Image source: http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg",
+              "page": 44,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "protocol for distributed, collaborative, hypermedia information",
+      "page": 45,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Wide Web.",
+          "page": 45,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "— Wikipedia",
+          "page": 45,
+          "children": [
+            {
+              "level": "H3",
+              "text": "HTTP Videos/Articles/Tutorials",
+              "page": 45,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "High Performance Browser Networking: What Every Web Developer Should Know",
+      "page": 45,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Cross-Origin Resource Sharing",
+          "page": 46,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "WebSockets",
+          "page": 47,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "WebSocket: Lightweight Client-Server Communications [read][$]",
+          "page": 47,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.5 - Learn Web Hosting",
+          "page": 47,
+          "children": [
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 48,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Image source: https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg",
+      "page": 51,
+      "children": [
+        {
+          "level": "H2",
+          "text": "3.6 - Learn General Front-End Development",
+          "page": 51,
+          "children": [
+            {
+              "level": "H3",
+              "text": "freeCodeCamp [interact]",
+              "page": 51,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "learning front-end development during #100DaysOfCode [read]",
+              "page": 51,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.7 - Learn User Interface/Interaction Design",
+          "page": 52,
+          "children": [
+            {
+              "level": "H3",
+              "text": "(user-centered design).",
+              "page": 52,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Human–Computer Interaction - Human–computer interaction (HCI)",
+              "page": 53,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Designing Interfaces [read][$]",
+              "page": 53,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "[read][$]",
+              "page": 53,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.8 - Learn HTML & CSS",
+          "page": 53,
+          "children": [
+            {
+              "level": "H3",
+              "text": "applications.",
+              "page": 54,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 54,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Front-End Web Development Quick Start With HTML5, CSS, and JavaScript [watch]",
+      "page": 55,
+      "children": [
+        {
+          "level": "H3",
+          "text": "References/Docs:",
+          "page": 56,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "cssreference.io",
+          "page": 56,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "cssvalues.com",
+          "page": 56,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Glossary/Vocabulary:",
+          "page": 56,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Glossary - Programming Reference for CSS Covering Comments, Properties,",
+      "page": 56,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Standards/Specifications:",
+          "page": 56,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Indexes - A listing of every term defined by CSS specs",
+      "page": 57,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "The Elements of HTML from the Living Standard",
+      "page": 57,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Global Attributes",
+          "page": 57,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "The HTML Syntax from the Living Standard",
+      "page": 57,
+      "children": [
+        {
+          "level": "H1",
+          "text": "HTML 5.2 from W3C",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Selectors Level 3",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Atomic Design [read]",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "BEM",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ITCSS",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "OOCSS [read]",
+          "page": 57,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Scalable Modular Architecture for CSS (SMACSS) [watch][$]",
+      "page": 57,
+      "children": [
+        {
+          "level": "H1",
+          "text": "SUIT CSS",
+          "page": 57,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "rscss",
+          "page": 57,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Authoring/Architecting Conventions:",
+      "page": 57,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS code guide [read]",
+          "page": 57,
+          "children": [
+            {
+              "level": "H3",
+              "text": "css-architecture",
+              "page": 57,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "Idiomatic CSS [read]",
+          "page": 57,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Standards for Developing Flexible, Durable, and Sustainable HTML and CSS [read]",
+      "page": 57,
+      "children": [
+        {
+          "level": "H2",
+          "text": "3.9 - Learn Search Engine Optimization",
+          "page": 58,
+          "children": [
+            {
+              "level": "H3",
+              "text": "engines.",
+              "page": 58,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Image source: https://visual.ly/community/infographic/computers/how-does-seo-work",
+      "page": 59,
+      "children": [
+        {
+          "level": "H3",
+          "text": "General Learning:",
+          "page": 59,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.10 - Learn JavaScript",
+          "page": 60,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Getting Started:",
+              "page": 60,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "javascript.info",
+              "page": 60,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "JavaScript Enlightenment [read]",
+              "page": 60,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 60,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Mastering:",
+              "page": 61,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers [read]",
+      "page": 61,
+      "children": [
+        {
+          "level": "H3",
+          "text": "JavaScript Regular Expression Enlightenment [read]",
+          "page": 61,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Test-Driven JavaScript Development [read][$]",
+          "page": 61,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "doesitmutate.xyz [read]",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Functional JavaScript:",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Functional Programming Jargon",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "funfunfunction: Functional programming in JavaScript [watch]",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Functional-Light-JS [read]",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Functional-Lite JavaScript (v2) [watch][$]",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "References/Docs:",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Glossary/Encyclopedia/Jargon:",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Standards/Specifications:",
+          "page": 62,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "ECMAScript® 2015 Language Specification",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "ECMAScript® 2016 Language Specification",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "ECMAScript® 2017 Language Specification",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "ECMAScript® 2018 Language Specification",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "ECMAScript® 2019 Language Specification",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Style:",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "JavaScript Semi-Standard Style",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Functional JavaScript: Introducing Functional Programming with Underscore.js",
+          "page": 63,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "JS Explorers/Visualizers:",
+          "page": 64,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "JavaScript Visualizer",
+          "page": 64,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.11 - Learn DOM, BOM, CSSOM & jQuery",
+          "page": 64,
+          "children": [
+            {
+              "level": "H3",
+              "text": "language-independent convention for representing and interacting with",
+              "page": 64,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "application programming interface (API).",
+              "page": 64,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 65,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Mastering:",
+              "page": 65,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "jQuery-Free JavaScript [watch][$]",
+      "page": 66,
+      "children": [
+        {
+          "level": "H3",
+          "text": "References/Docs:",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "jQuery Docs",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Events",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "DOM Browser Support",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "MDN Browser Object Model",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "MDN Event reference",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSS Object Model (CSSOM)",
+          "page": 66,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Standards/Specifications:",
+              "page": 66,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Document Object Model (DOM) Level 3 Events Specification",
+      "page": 66,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Document Object Model (DOM) Technical Reports",
+      "page": 66,
+      "children": [
+        {
+          "level": "H1",
+          "text": "DOM Living Standard",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "W3C DOM4",
+          "page": 66,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "3.12 - Learn Web Animation",
+          "page": 66,
+          "children": [
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 67,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Standards/Specifications:",
+              "page": 67,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "3.13 - Learn Web Fonts, Icons, & Images",
+              "page": 67,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "1996 and provided the same capabilities.",
+              "page": 68,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "Fonts:",
+                  "page": 68,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Icons:",
+                  "page": 68,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Images:",
+                  "page": 69,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.14 - Learn Accessibility",
+              "page": 69,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 70,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "9 tips to get bare minimum of web accessibility",
+              "page": 70,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "Standards/Specifications:",
+                  "page": 70,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.15 - Learn Web/Browser APIs",
+              "page": 71,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "Image source: http://www.evolutionoftheweb.com/",
+                  "page": 71,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "platform.html5.org",
+                  "page": 72,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.16 - Learn JSON (JavaScript Object Notation)",
+              "page": 72,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "JSON, (canonically pronounced sometimes JavaScript Object Notation),",
+                  "page": 72,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "languages.",
+                  "page": 73,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "404. The ECMA standard is minimal, describing only the allowed",
+              "page": 73,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 73,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "References/Docs:",
+                  "page": 73,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Standards/Specifications:",
+                  "page": 73,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Architecting:",
+                  "page": 74,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.17 - Learn JS Templates",
+              "page": 74,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "[read][$]",
+                  "page": 74,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.18 - Learn Static Site Generators",
+              "page": 74,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 75,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.19 - Learn Computer Science via JS",
+              "page": 75,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "3.20 - Learn Front-End Application Architecture",
+              "page": 75,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 76,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Deprecated Learning Materials:",
+                  "page": 76,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "JavaScript Application Design [read][$]",
+                  "page": 76,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Frontend Guidelines Questionnaire [read]",
+                  "page": 76,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Organizing JavaScript Functionality [watch][$]",
+                  "page": 76,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.21 - Learn Data (i.e. JSON) API Design",
+              "page": 76,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "JSON API [read]",
+          "page": 77,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "3.22 - Learn React",
+          "page": 77,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Learning React:",
+          "page": 77,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "React",
+          "page": 77,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "!",
+          "page": 77,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "[read]",
+          "page": 77,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "React Patterns Video Subscription [watch][$]",
+      "page": 77,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "REACT JS TUTORIAL #1 - Reactjs Javascript Introduction & Workspace Setup",
+      "page": 77,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Mastering React:",
+          "page": 77,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Build Your First Production Quality React App [watch][$]",
+      "page": 77,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Advanced React Component Patterns [watch][$]",
+      "page": 77,
+      "children": [
+        {
+          "level": "H2",
+          "text": "3.23 - Learn Application State Management",
+          "page": 78,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.24 - Learn Progressive Web App",
+          "page": 78,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.25 - Learn JS API Design",
+          "page": 81,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "3.26 - Learn Browser Web Developer Tools",
+          "page": 81,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Per-Panel Documentation",
+              "page": 82,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.27 - Learn the Command Line (aka CLI)",
+          "page": 82,
+          "children": [
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 83,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Mastering:",
+              "page": 83,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.28 - Learn Node.js",
+          "page": 83,
+          "children": [
+            {
+              "level": "H3",
+              "text": "General Learning:",
+              "page": 84,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H2",
+          "text": "3.29 - Learn Modules",
+          "page": 84,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "General Learning:",
+          "page": 85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "JavaScript for impatient programmers - Modules [read]",
+      "page": 85,
+      "children": [
+        {
+          "level": "H1",
+          "text": "ES6 Modules in Depth [read]",
+          "page": 85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Exploring JS - Modules [read]",
+      "page": 85,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "ES modules: A cartoon deep-dive [read]",
+      "page": 85,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "References/Docs:",
+      "page": 85,
+      "children": [
+        {
+          "level": "H1",
+          "text": "MDN - export",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "MDN - import",
+          "page": 85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "3.30 - Learn Module loaders/bundlers",
+      "page": 85,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Webpack:",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Webpack [read]",
+          "page": 85,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Webpack 4 Fundamentals [watch][$]",
+      "page": 85,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Survivejs.com Webpack Book [read]",
+      "page": 85,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Rollup:",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Rollup [read]",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Microbundle",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Parcel",
+          "page": 85,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Parcel [read]",
+          "page": 85,
+          "children": [
+            {
+              "level": "H2",
+              "text": "3.31 - Learn Package Manager",
+              "page": 86,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 86,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.32 - Learn Version Control",
+              "page": 86,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 87,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Mastering:",
+                  "page": 87,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "References/Docs:",
+                  "page": 87,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "https://git-scm.com/doc",
+                  "page": 88,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "git-cheatsheet",
+                  "page": 88,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 88,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "References/Docs:",
+                  "page": 88,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Read:",
+                  "page": 89,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.34 - Learn Site Performance Optimization",
+              "page": 89,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 89,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "perf-tooling.today [read]",
+                  "page": 90,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Website Performance [watch][$]",
+                  "page": 90,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Website Performance Optimization [watch]",
+                  "page": 90,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.35 - Learn Testing",
+              "page": 90,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 91,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Testable JavaScript [read][$]",
+                  "page": 91,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code[read][$]",
+                  "page": 91,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Test-Driven JavaScript Development [read][$]",
+                  "page": 92,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.36 - Learn Headless Browsers",
+              "page": 92,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "3.37 - Learn Offline Development",
+              "page": 93,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 93,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "offlinefirst.org [read]",
+                  "page": 93,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Offline Quickstart[read]",
+                  "page": 93,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "H2",
+              "text": "3.38 - Learn Web/Browser/App Security",
+              "page": 93,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "3.39 - Learn Multi-Device Development",
+              "page": 94,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "Image source: http://bradfrost.com/blog/post/this-is-the-web/",
+                  "page": 95,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "General Learning:",
+                  "page": 96,
+                  "children": []
+                },
+                {
+                  "level": "H3",
+                  "text": "Instructor Directed",
+                  "page": 96,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Resources/Recommendations",
+      "page": 97,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "This chapter highlights a few options for instructor directed learning via",
+      "page": 97,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "front-end development schools, courses, programs, and bootcamps.",
+      "page": 97,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "The table below contains a small selection of instructor-led courses (i.e. programs,",
+      "page": 97,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "schools, and bootcamps). Use the table to get a general idea of what is available, the",
+      "page": 97,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "cost, duration, and locations of courses. (Be aware the information can change",
+      "page": 97,
+      "children": [
+        {
+          "level": "H1",
+          "text": "quickly)",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "re",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "price",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "m",
+          "page": 97,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "company program estim on site duration",
+      "page": 97,
+      "children": [
+        {
+          "level": "H1",
+          "text": "ot",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ate",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "e",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Betamore 3,000 10 weeks",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Development e, MD",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Become a 16 weeks @ 25hr/wk",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ye",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "BLOC Front-end 4,999 or 32 weeks @",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "s",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "multiple",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-end Web 3 hrs/day 2 days/wk",
+          "page": 97,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "General Assembly 3,500 location",
+      "page": 97,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Development for 8 weeks",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "s",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "300",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-end Web ye 15 hrs/wk for 3",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Thinkful per",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Development s months",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "month",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Turing School of",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-End Denver,",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Software & 20,000 7 months full time",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Engineering CO",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Design",
+          "page": 97,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Notes:",
+          "page": 97,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "l. For a complete list of schools, courses, programs, and bootcamps to evaluate have a",
+      "page": 97,
+      "children": [
+        {
+          "level": "H2",
+          "text": "5.1 - Doc/API Browsing Tools",
+          "page": 98,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Velocity [Windows][$]",
+              "page": 98,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "Cheatsheets:",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "devhints.io",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "5.2 - SEO Tools",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "General SEO Tools:",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Keyword Tool",
+          "page": 99,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Google Webmasters Search Console",
+      "page": 99,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Varvy SEO tool",
+          "page": 99,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Tools for Finding SEO Tools:",
+      "page": 99,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "SEO Tools - The Complete List",
+      "page": 99,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CuratedSEOTools - Curated directory of the best SEO tools",
+      "page": 99,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.3 - Prototyping & Wireframing Tools",
+      "page": 99,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Creating:",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Axure [$]",
+          "page": 99,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Balsamiq Mockups [$]",
+      "page": 99,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Justinmind [$]",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Moqups [$]",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "proto.io [$]",
+          "page": 99,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "UXPin [free to $]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Collaboration / Presenting:",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "InVision [free to $]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Conceptboard [free to $]",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "myBalsamiq [$]",
+          "page": 100,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Marvel [free to $]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.4 - Diagramming Tools",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "draw.io [free to $]",
+          "page": 100,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Cacoo [free to $]",
+          "page": 100,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "gliffy [free to $]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "sketchboard.io [$]",
+      "page": 100,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.5 - HTTP/Network Tools",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Charles [$]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Chrome DevTools Network Panel",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Insomnia [free - $]",
+          "page": 100,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Mitmproxy [free]",
+      "page": 100,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Paw [$]",
+          "page": 100,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Postman [free - $]",
+          "page": 100,
+          "children": [
+            {
+              "level": "H2",
+              "text": "5.6 - Code Editing Tools",
+              "page": 101,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "— Wikipedia",
+              "page": 101,
+              "children": [
+                {
+                  "level": "H3",
+                  "text": "JavaScript.",
+                  "page": 101,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "r. Have available a large repository of third-party/community plug-ins that can be",
+      "page": 102,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "s. Be small, simple, and not coupled to the code (i.e., not required to edit the code)",
+      "page": 102,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Code Editors:",
+          "page": 102,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Atom",
+          "page": 102,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Sublime Text [$]",
+          "page": 102,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Visual Studio Code",
+          "page": 102,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Used to share limited amounts of immediately runnable code. Not a true code editor",
+      "page": 102,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "but a tool that can be used to share small amounts of immediately runnable code in a",
+      "page": 102,
+      "children": [
+        {
+          "level": "H3",
+          "text": "jsfiddle.net",
+          "page": 102,
+          "children": []
+        },
+        {
+          "level": "H3",
+          "text": "Image source: https://2018.stateofjs.com/other-tools/text_editors",
+          "page": 103,
+          "children": []
+        },
+        {
+          "level": "H2",
+          "text": "5.7 - Browser Tools",
+          "page": 103,
+          "children": [
+            {
+              "level": "H3",
+              "text": "History.js",
+              "page": 103,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "html2canvas",
+              "page": 103,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Platform.js",
+              "page": 103,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "Browserscope",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "caniuse.com",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Firefox Platform Status - Implementation & standardization roadmap for web",
+      "page": 104,
+      "children": [
+        {
+          "level": "H1",
+          "text": "platform features",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "HTML5 Please",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "HTML5 Test",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "iwanttouse.com",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "web-platform-tests dashboard",
+      "page": 104,
+      "children": [
+        {
+          "level": "H3",
+          "text": "whatwebcando.today",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Browser Development/Debug Tools:",
+      "page": 104,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chrome Developer Tools (aka DevTools)",
+      "page": 104,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Per-Panel Documentation",
+      "page": 104,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Command Line API Reference",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Keyboard & UI Shortcuts Reference",
+      "page": 104,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Settings",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Firefox Developer Tools",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Safari Web Inspector",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Vorlon.js",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "JavaScript Utilities to Determine If X Browser Supports X:",
+      "page": 104,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Feature.js",
+          "page": 104,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Modernizr",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Broad Browser Polyfills/Shims:",
+      "page": 104,
+      "children": [
+        {
+          "level": "H3",
+          "text": "console-polyfill",
+          "page": 104,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML5 Cross Browser Polyfills",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "fetch",
+          "page": 105,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "socket.io",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "SockJS",
+          "page": 105,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "webcomponents.js",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "webshim",
+          "page": 105,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Hosted Testing/Automation for Browsers:",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browserling [free to $]",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "BrowserStack [$]",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CrossBrowserTesting.com [$]",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Ghost Inspector [free to $]",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Nightcloud.io",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Sauce Labs [$]",
+          "page": 105,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Headless Browsers:",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "slimerjs",
+          "page": 105,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Zombie.js",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Headless Chromium",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browser Automation:",
+      "page": 105,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Used for functional testing and monkey testing.",
+      "page": 105,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CasperJS",
+          "page": 105,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Nightmare",
+          "page": 105,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "TestCafe",
+          "page": 105,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Browser Hacks:",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "browserhacks.com",
+      "page": 106,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browser Syncing Tools:",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Browsersync",
+          "page": 106,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Browser List:",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Share target browsers between different front-end tools, like Autoprefixer, Stylelint",
+      "page": 106,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "and babel-preset-env.",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Browserslist",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "http://browserl.ist/",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "5.8 - HTML Tools",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Templates/Boilerplates/Starter Kits:",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "dCodes",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Email-Boilerplate",
+      "page": 106,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML5 Boilerplate",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "HTML5 Bones",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Mobile boilerplate",
+      "page": 106,
+      "children": [
+        {
+          "level": "H1",
+          "text": "HTML Polyfill:",
+          "page": 106,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "html5shiv",
+          "page": 106,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Transpiling:",
+      "page": 107,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Pug",
+          "page": 107,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Markdown",
+          "page": 107,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "References:",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Element attributes",
+      "page": 107,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Elements",
+          "page": 107,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "HTML Arrows",
+          "page": 107,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Entity Lookup",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "htmlreference.io",
+      "page": 107,
+      "children": [
+        {
+          "level": "H1",
+          "text": "HEAD - A free guide to",
+          "page": 107,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "elements",
+          "page": 107,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Linting/Hinting:",
+      "page": 107,
+      "children": [
+        {
+          "level": "H1",
+          "text": "HTMLHint",
+          "page": 107,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "html-inspector",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Optimizer:",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Minifier",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Online Creation/Generation/Experimentation Tools:",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "tablesgenerator.com",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Authoring Conventions:",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Code Guide",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Principles of Writing Consistent, Idiomatic HTML",
+      "page": 107,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Workflow:",
+      "page": 108,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Emmet",
+          "page": 108,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Outliner:",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML 5 Outliner",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Trending HTML Repositories on GitHub This Month:",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "https://github.com/trending?l=html&since=monthly",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.9 - CSS Tools",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Utilities:",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Basscss",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Skeleton",
+      "page": 108,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Shed",
+          "page": 108,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Tailwind CSS",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tachyons",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Frameworks (utilities + UI):",
+      "page": 108,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Base",
+          "page": 108,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Bulma",
+          "page": 108,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Bootstrap 4",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Concise",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Foundation",
+      "page": 108,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Material Design Lite (MDL)",
+      "page": 109,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Metro UI",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Mini.css",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Mobi.css",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Picnic",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Pure.css",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Semantic UI",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Shoelace",
+          "page": 109,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Spectre.css",
+      "page": 109,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mobile Only CSS Frameworks:",
+      "page": 109,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Ratchet",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSS Reset:",
+          "page": 109,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "“",
+          "page": 109,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set",
+      "page": 109,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "of CSS rules that resets the styling of all HTML elements to a consistent",
+      "page": 109,
+      "children": [
+        {
+          "level": "H1",
+          "text": "baseline.",
+          "page": 109,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "— cssreset.com",
+      "page": 109,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Eric Meyer's “Reset CSS” 2.0",
+      "page": 109,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Normalize",
+          "page": 109,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "sanitize.css",
+      "page": 109,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Transpiling:",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "pleeease.io",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "PostCSS & cssnext",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "rework & myth",
+          "page": 110,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "References:",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Cursors",
+          "page": 110,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "css3test.com",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "css3clickchart.com",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "cssreference.io",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Indexes - A listing of every term defined by CSS specs",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "css4-selectors.com",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "css4 Rocks",
+          "page": 110,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS TRIGGERS...A GAME OF LAYOUT, PAINT, AND COMPOSITE",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Tricks Almanac",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "cssvalues.com",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MDN CSS Reference",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Cheat Sheet",
+          "page": 110,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Whatʼs next for CSS?",
+      "page": 110,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Linting/Hinting:",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Lint",
+          "page": 110,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "stylelint",
+          "page": 110,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Code Formatter/Beautifier:",
+      "page": 110,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSScomb",
+          "page": 110,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSSfmt",
+          "page": 111,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Optimizer:",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "clean-css",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "cssnano",
+      "page": 111,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSSO",
+          "page": 111,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "purgecss",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Online Creation/Generation/Experimentation Tools:",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS Arrow Please",
+      "page": 111,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Matic",
+          "page": 111,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Enjoy CSS",
+          "page": 111,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "flexplorer",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "patternify.com",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "patternizer.com",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Ultimate CSS Gradient Generator",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Architecting CSS:",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Atomic Design [read]",
+      "page": 111,
+      "children": [
+        {
+          "level": "H1",
+          "text": "BEM",
+          "page": 111,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ITCSS",
+          "page": 111,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "OOCSS [read]",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "SMACSS [read][$]",
+      "page": 111,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Scalable Modular Architecture for CSS (SMACSS) [watch][$]",
+      "page": 111,
+      "children": [
+        {
+          "level": "H1",
+          "text": "SUIT CSS",
+          "page": 111,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "rscss",
+          "page": 112,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Authoring/Architecting Conventions:",
+      "page": 112,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS code guide [read]",
+          "page": 112,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "css-architecture [read]",
+      "page": 112,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Idiomatic CSS [read]",
+          "page": 112,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Standards for Developing Flexible, Durable, and Sustainable HTML and CSS [read]",
+      "page": 112,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Airbnb CSS / Sass Styleguide [read]",
+      "page": 112,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Style Guide Resources:",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Frontify [$]",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "SC5 STYLE GUIDE GENERATOR",
+          "page": 112,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "styleguide-generators",
+      "page": 112,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Catalog",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSS in JS:",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "styled components",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Emotion",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Radium",
+          "page": 112,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Aphrodite",
+          "page": 112,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Trending CSS Repositories on GitHub This Month:",
+      "page": 112,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "https://github.com/trending?l=css&since=monthly",
+      "page": 112,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.10 - DOM Tools",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Libraries/Frameworks:",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Bliss",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jQuery",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "You Don't Need jQuery",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Zepto",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "cash",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Umbrella JS",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "nanoJS",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Utilities:",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Keypress",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tether",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "clipboard.js",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Event Tools:",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Keyboard Event Viewer",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Performance Tools:",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chrome DevTools Timeline",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Monster",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "References:",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Events",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Browser Support",
+      "page": 113,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Events Browser Support",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML Interfaces Browser Support",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MDN Document Object Model (DOM)",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MDN Browser Object Model",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MDN Document Object Model",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MDN Event reference",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MSDN Document Object Model (DOM)",
+      "page": 114,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOM Polyfills/Shims:",
+      "page": 114,
+      "children": [
+        {
+          "level": "H1",
+          "text": "dom-shims",
+          "page": 114,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Pointer Events Polyfill: a unified event system for the web platform",
+      "page": 114,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Virtual DOM:",
+          "page": 114,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "jsdom",
+          "page": 114,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "virtual-dom",
+          "page": 114,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.11 - JavaScript Tools",
+      "page": 114,
+      "children": [
+        {
+          "level": "H1",
+          "text": "JS Utilities:",
+          "page": 114,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "accounting.js",
+      "page": 114,
+      "children": [
+        {
+          "level": "H1",
+          "text": "async",
+          "page": 114,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "axios",
+          "page": 114,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "chance",
+          "page": 114,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "date-fns",
+          "page": 114,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "dinero",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Finance.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "format.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Howler.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "immutable",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "is.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "lodash",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "You-Dont-Need-Lodash-Underscore",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Luxon",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "You don't (may not) need Moment.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Math.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Moment.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Numeral.js",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Ramda",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "RxJS",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "TheoremJS",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "voca",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "wait",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "xregexp.com",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Transforming JavaScript Objects Tool:",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "transform-www",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Transpiling / Type Checking (ES to ES):",
+      "page": 115,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "TypeScript",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Type Checking (ES to ES):",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Flow",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Transpiling (ES to ES):",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Babel",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "sucrase",
+      "page": 116,
+      "children": [
+        {
+          "level": "H1",
+          "text": "scw",
+          "page": 116,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Code-analysis Engine:",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tern",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Linting/Hinting & Style Linter:",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "eslint",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Unit Testing:",
+      "page": 116,
+      "children": [
+        {
+          "level": "H1",
+          "text": "AVA",
+          "page": 116,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Jasmine",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mocha",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tape",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Testing Assertions for Unit Testing:",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chai",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "expect.js",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "should.js",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Test Spies, Stubs, and Mocks for Unit Testing:",
+      "page": 116,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "sinon.js",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Kakapo.js",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Code Formater/Beautifier:",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "esformatter",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "js-beautify",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jsfmt",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "prettier",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Performance Testing:",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "benchmark.js",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jsperf.com",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Visualization, Static Analysis, Complexity, Coverage Tools:",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Coveralls [$]",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Esprima",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "istanbul",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Optimizer:",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Closure Compiler",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Terser",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "optimize-js",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Prepack",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Obfuscate:",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Javascript Obfuscator [free to $]",
+      "page": 117,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JScrambler [$]",
+      "page": 117,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Sharable/Runnable Code Editors:",
+          "page": 118,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Online Regular Expression Editors/Visual Tools:",
+      "page": 118,
+      "children": [
+        {
+          "level": "H1",
+          "text": "RegExr",
+          "page": 118,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Airbnb's ESLint config, following our styleguide",
+      "page": 118,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "https://github.com/trending?l=javascript&since=monthly",
+      "page": 118,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "https://www.npmjs.com/browse/depended",
+      "page": 118,
+      "children": [
+        {
+          "level": "H1",
+          "text": "5.12 - Headless CMS Tools",
+          "page": 118,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.13 - Static Site Generators Tools",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Site Generator Listings:",
+      "page": 119,
+      "children": [
+        {
+          "level": "H1",
+          "text": "staticgen.com",
+          "page": 119,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "staticsitegenerators.net",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.14 - Accessibility Tools",
+      "page": 119,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Guides",
+          "page": 119,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "A11Y Style Guide",
+          "page": 119,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Accessibility Guidelines Checklist",
+      "page": 119,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Interactive WCAG 2.0",
+          "page": 119,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "18F Accessibility Guide",
+      "page": 119,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Site Scanners",
+          "page": 119,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "aXe Browser Extension",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chrome Accessibility Developer Tools",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tenon Accessibility Tool",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "WAVE Accessibility Tool",
+      "page": 119,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Color Contrast Testers",
+      "page": 119,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Colorable",
+          "page": 119,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Colorable Matrix",
+          "page": 119,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Color Safe",
+          "page": 119,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Color Ratio",
+          "page": 120,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Low-Vision Simulators",
+      "page": 120,
+      "children": [
+        {
+          "level": "H1",
+          "text": "SEE (Chrome)",
+          "page": 120,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Spectrum (Chrome)",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "NoCoffee (Chrome)",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Screen Readers",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "VoiceOver (Mac)",
+      "page": 120,
+      "children": [
+        {
+          "level": "H1",
+          "text": "JAWS (Win)",
+          "page": 120,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "NVDA (Win)",
+          "page": 120,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "ChromeVox (Chrome extension)",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Basic screen reader commands",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Readability Testers",
+      "page": 120,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Expresso App",
+          "page": 120,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Hemingway App",
+          "page": 120,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Grammarly",
+          "page": 120,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Readability Score",
+      "page": 120,
+      "children": [
+        {
+          "level": "H1",
+          "text": "MS Office",
+          "page": 120,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Articles",
+          "page": 120,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Getting Started with ARIA",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Reframing Accessibility for the Web",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "An Alphabet of Accessibility Issues",
+      "page": 120,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Practical ARIA Examples",
+      "page": 120,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Tools",
+          "page": 121,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Polymer",
+              "page": 121,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "Riot",
+          "page": 121,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Native Hybrid Mobile WebView (i.e., Browser Engine Driven) Frameworks:",
+      "page": 121,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "These solutions typically use Cordova, crosswalk, or a custom WebView as a bridge",
+      "page": 121,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven)",
+      "page": 121,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Environments/Platforms/Tools:",
+          "page": 121,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "These solutions typically use Cordova, crosswalk, or a custom WebView as a bridge",
+      "page": 122,
+      "children": [
+        {
+          "level": "H1",
+          "text": "to native APIs.",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Adobe PhoneGap [$]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "cocoon.io [free to $]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ionic hub [free to $]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "kony [$]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Monaca [$]",
+          "page": 122,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Native Desktop App Frameworks:",
+      "page": 122,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Electron",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "NW.js",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "proton",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Neutralino.js",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "DeskGap",
+          "page": 122,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Native Mobile App Frameworks (Aka JavaScript Native Apps)",
+      "page": 122,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "These solutions use a JS engine at runtime to interpret JS and bridge that to native",
+      "page": 122,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "APIs. No browser engine or WebView is used. The UI is constructed from native UI",
+      "page": 122,
+      "children": [
+        {
+          "level": "H1",
+          "text": "components.",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Flutter",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "NativeScript",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "React Native",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "tabris.js [free to $]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "trigger.io [$]",
+          "page": 122,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "weex",
+          "page": 122,
+          "children": [
+            {
+              "level": "H3",
+              "text": "todomvc.com",
+              "page": 123,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Front-end Guidelines Questionnaire",
+              "page": 123,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Front-end Guidelines",
+              "page": 123,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "Performance:",
+              "page": 123,
+              "children": []
+            },
+            {
+              "level": "H3",
+              "text": "js-framework-benchmark",
+              "page": 123,
+              "children": []
+            },
+            {
+              "level": "H2",
+              "text": "5.16 - JavaScript App Manager",
+              "page": 123,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.17 - State Tools",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Redux",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mobx",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "mobx-state-tree",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Cerebral",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "freactal",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "unistore",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "unstated",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Vuex",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.18 - Progressive Web App Tools:",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "lighthouse",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Progressive Web App Checklist",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.19 - GUI Development/Build Tools",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CodeKit",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Prepros",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "KoalaApp [free]",
+      "page": 124,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.20 - Templating/Data Binding Tools",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Just Templating:",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "doT.js",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "art-template",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Nunjuncks",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Templating and Reactive Data Binding:",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "ractive.js",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "react.js",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "preact",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "inferno",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "nerv",
+      "page": 125,
+      "children": [
+        {
+          "level": "H1",
+          "text": "rax",
+          "page": 125,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "riot",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Rivets.js",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "vue.js",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Templating to Virtual DOM:",
+      "page": 125,
+      "children": [
+        {
+          "level": "H1",
+          "text": "JSX",
+          "page": 125,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.21 - UI Widget & Component Toolkits",
+      "page": 125,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "On Web Platform:",
+      "page": 125,
+      "children": [
+        {
+          "level": "H3",
+          "text": "Materialize",
+          "page": 126,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Webix [$]",
+          "page": 126,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Ant Design",
+          "page": 126,
+          "children": [
+            {
+              "level": "H3",
+              "text": "Semantic-UI-React",
+              "page": 126,
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "H1",
+          "text": "Fabric",
+          "page": 126,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. used with NW.js and",
+      "page": 126,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Electron):",
+          "page": 126,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Photon",
+          "page": 126,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "If you need a basic set of UI Widgets/Components start with Semantic UI. If you are",
+      "page": 126,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "building something that needs a grid, spreadsheet, or pivot grid you'll have to look at",
+      "page": 126,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Kendo UI or Webix. Keep in mind that most of these solutions still require jQuery.",
+      "page": 126,
+      "children": [
+        {
+          "level": "H1",
+          "text": "d3",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "sigmajs",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Widgets & Components:",
+      "page": 127,
+      "children": [
+        {
+          "level": "H1",
+          "text": "amCharts [free to $]",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "AnyChart [Non-commercial free to $]",
+      "page": 127,
+      "children": [
+        {
+          "level": "H1",
+          "text": "C3.js",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Chartist-jsj",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Chart.js",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Epoch",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "FusionCharts [$]",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Google Charts",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Highcharts [Non-commercial free to $]",
+      "page": 127,
+      "children": [
+        {
+          "level": "H1",
+          "text": "ZingChart [free to $]",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Services (i.e. hosted data visualization services for embedding and sharing):",
+      "page": 127,
+      "children": [
+        {
+          "level": "H1",
+          "text": "ChartBlocks [free to $]",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Datawrapper",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "infogr.am [free to $]",
+          "page": 127,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "plotly [free to $]",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.23 - Graphics (e.g., SVG, canvas, webgl) Tools",
+      "page": 127,
+      "children": [
+        {
+          "level": "H1",
+          "text": "General:",
+          "page": 127,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Fabric.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Two.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Canvas:",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "EaselJS",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Paper.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "SVG:",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "d3",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "GraphicsJS",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Raphaël",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Snap.svg",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "svg.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "WebGL:",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "pixi.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "three.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.24 - Animation Tools",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS and JavaScript Utilities:",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Animate Plus",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Animate",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Anime.js",
+      "page": 128,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Animista.net",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Dynamics.js",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "GreenSock-JS",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Kute.js",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Magic",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Micron.js",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Motion",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "TweenJS",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Popmotion",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Velocity.js",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Polyfills/Shims:",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "web-animations-js",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Animation References:",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "canianimate.com",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.25 - JSON Tools",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Online Editors:",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JSONmate",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JSON Editor Online",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Formatter & Validator:",
+      "page": 129,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jsonformatter.org",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JSON Formatter & Validator",
+      "page": 130,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Query Tools:",
+          "page": 130,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "DefiantJS",
+          "page": 130,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JSON Mask",
+          "page": 130,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "ObjectPath",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Generating Mock JSON Tools:",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JSON Generator",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mockaroo [free to $]",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Online JSON Mocking API Tools:",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "FillText.com",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "FakeJSON [free to $]",
+      "page": 130,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Jam API",
+          "page": 130,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "JSONPlaceholder",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jsonbin.io",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jsonbin.org",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "mockable.io",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "mockapi.io",
+      "page": 130,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Mocky",
+          "page": 130,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "RANDOM USER GENERATOR",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "List of public JSON API's:",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "A collective list of JSON APIs for use in web development",
+      "page": 130,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Local JSON Mocking API Tools:",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "json-server",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JSON Specifications/Schemas:",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "json-schema.org & jsonschema.net",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "{json:api}",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.26 - Placeholder Content Tools",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Images:",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "placehold.it",
+      "page": 131,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Satyr",
+          "page": 131,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Placeimg",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Lorem Pixel",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CSS-Tricks Image Resources",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "LibreStock",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Unsplash",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Device Mockups:",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "placeit.net",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "mockuphone.com",
+      "page": 131,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Text:",
+          "page": 131,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Meet the Ipsums",
+      "page": 131,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "catipsum.com",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "baconipsum.com (API)",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "User Data:",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "uinames.com",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "randomuser.me",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.27 - Testing Tools",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Software Testing Frameworks:",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Intern",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Jest",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "majestic",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Enzyme",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Cheerio",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Unit Testing:",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "AVA",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Jasmine",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Mocha",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Tape",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Testing Assertions for Unit Testing:",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chai",
+      "page": 132,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "expect.js",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "should.js",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Test Spies, Stubs, and Mocks for Unit Testing:",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "sinon.js",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Kakapo.js",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Hosted Testing/Automation for Browsers:",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browserling [$]",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "BrowserStack [$]",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CrossBrowserTesting.com [$]",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Nightcloud.io",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Sauce Labs [$]",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Integration/Functional Testing:",
+      "page": 133,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Cypress",
+          "page": 133,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Nightwatch",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "WebDriver.io",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browser Automation:",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "CasperJS",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Nightmare",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "TestCafe",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "UI Testing Tools:",
+      "page": 133,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "gremlins.js",
+      "page": 133,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Percy",
+          "page": 133,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "BackstopJS",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "PhantomCSS",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Ghost Inspector",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "diff.io",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Automated dead link and error detectors:",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Monkey Test It",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "HTTP Stubbing",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Polly.JS",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.28 - Front-End Data Storage Tools (i.e. Data storage",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "solution in the client)",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "AlaSQL",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Dexie.js",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "LocalForage",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "LokiJS",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Lovefield",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "lowdb",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Pouchdb",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "NeDB",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "RxDB",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "ImmortalDB",
+      "page": 134,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.29 - Module Loading/Bundling Tools",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Parcel",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Rollup",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Microbundle",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "webpack",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Poi",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "jetpack",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Fusebox",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Browserify",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.30 - Module/Package Repository Tools",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "NPM",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "yarn",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "PNPM",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.31 - Hosting Tools",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "General",
+      "page": 135,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "AWS [$]",
+      "page": 135,
+      "children": [
+        {
+          "level": "H1",
+          "text": "DigitalOcean [$]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "WebFaction [$]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Static",
+          "page": 136,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Firebase Hosting [free to $]",
+      "page": 136,
+      "children": [
+        {
+          "level": "H1",
+          "text": "netlify [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Bitballoon",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Surge [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Forge [$]",
+          "page": 136,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.32 - Project Management & Code Hosting Tools",
+      "page": 136,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Assembla [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Bitbucket [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Codebase [$]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Github [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "GitLab [free to $]",
+          "page": 136,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Unfuddle [$]",
+          "page": 136,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.33 - Collaboration & Communication Tools",
+      "page": 136,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Slack & screenhero [free to $]",
+      "page": 136,
+      "children": [
+        {
+          "level": "H1",
+          "text": "appear.in",
+          "page": 137,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Mattermost [free to $]",
+      "page": 137,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Code/GitHub Collaboration & Communication:",
+      "page": 137,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Gitter [free to $]",
+          "page": 137,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.34 - Content Management Hosted/API Tools",
+      "page": 137,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Headless CMS Tools:",
+      "page": 137,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Contentful [$]",
+      "page": 137,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "prismic.io [free to $]",
+      "page": 137,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Headless",
+          "page": 137,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Self-hosted Headless CMS Tools:",
+      "page": 137,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Cockpit",
+          "page": 137,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Directus 7 App",
+          "page": 137,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Hosted CMS:",
+          "page": 137,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "LightCMS [$]",
+          "page": 137,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Surreal CMS [$]",
+          "page": 137,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Static CMS Tools:",
+      "page": 137,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "webhook.com",
+      "page": 137,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Dato CMS",
+          "page": 137,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "siteleaf",
+          "page": 137,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "forestry.io",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.35 - Back-end/API tools",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Data/back-end as a service aka BAAS:",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Backendless",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Firebase [free to $]",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Pusher [free to $]",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "restdb.io [free to $]",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "MongoDB Stitch",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Data/back-end",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "GraphQL",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Apollo",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Relay",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Falcor",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "RxDB",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "User Management as a Service:",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Auth0 [$]",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "AuthRocket",
+      "page": 138,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Okta",
+          "page": 138,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Search",
+      "page": 138,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Algolia",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.36 - Offline Tools",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Hoodie",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Offline.js",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "PouchDB",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "upup",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Workbox",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "For more tools look here.",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.37 - Security Tools",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Coding Tool:",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "DOMPurify",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "XSS",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Security Scanners/Evaluators/Testers:",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Netsparker",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Websecurify",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "OWASP ZAP",
+      "page": 139,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "References:",
+      "page": 139,
+      "children": [
+        {
+          "level": "H1",
+          "text": "5.38 - Tasking (aka Build) Tools",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Tasking/Build Tools:",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Gulp",
+          "page": 140,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Opinionated Tasking/Build pipeline tools:",
+      "page": 140,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Brunch",
+          "page": 140,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Before reaching for Gulp make sure npm scripts or yarn script won't fit the bill. Read,",
+      "page": 140,
+      "children": [
+        {
+          "level": "H1",
+          "text": "\"Why I Left Gulp and Grunt for npm Scripts\".",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "5.39 - Deployment Tools",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Bamboo [$]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Buddy [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CircleCI [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Codeship [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Deploybot [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Deployhq [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "FTPLOY [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Now [free to $]",
+          "page": 140,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Travis CI [free to $]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Semaphore [free to $]",
+          "page": 141,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Springloops [free to $]",
+      "page": 141,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.40 - Site/App Monitoring Tools",
+      "page": 141,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Uptime Monitoring:",
+      "page": 141,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Uptime Robot [free to $]",
+          "page": 141,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "General Monitoring Tools:",
+      "page": 141,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Pingdom [free to $]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "New Relic",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Uptrends [$]",
+          "page": 141,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.41 - JavaScript Error Reporting/Monitoring",
+      "page": 141,
+      "children": [
+        {
+          "level": "H1",
+          "text": "bugsnag [$]",
+          "page": 141,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "errorception [$]",
+      "page": 141,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Honeybadger [$]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Raygun [$]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Rollbar [free to $]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Sentry [free to $]",
+          "page": 141,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "TrackJS [$]",
+          "page": 141,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "5.42 - Performance Tools",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Reporting:",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "bundlephobia.com",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "GTmetrix",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "sitespeed.io",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Speed Curve [$]",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Web Page Test",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Sonarwhal",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "webhint.io",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Datadog [$]",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Lighthouse",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JS Tools:",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "imagemin",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "ImageOptim-CLI",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Budgeting:",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "performancebudget.io",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "References/Docs:",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Jank Free",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Performance of ES6 features relative to the ES5",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Checklist:",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "The Front-End Checklist",
+      "page": 142,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word] [read]",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.43 - Tools for Finding Tools",
+      "page": 143,
+      "children": [
+        {
+          "level": "H1",
+          "text": "built with",
+          "page": 143,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "frontendtools.com",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "javascripting.com",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "js.coach",
+      "page": 143,
+      "children": [
+        {
+          "level": "H1",
+          "text": "JSter",
+          "page": 143,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "npms",
+          "page": 143,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "stackshare.io",
+      "page": 143,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Unheap",
+          "page": 143,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "bestof.js.org",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "libraries.io",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "5.44 - Documentation Generation Tools",
+      "page": 143,
+      "children": [
+        {
+          "level": "H1",
+          "text": "docz",
+          "page": 143,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ESDoc",
+          "page": 143,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JSDoc",
+          "page": 143,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "documentjs",
+      "page": 143,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Chapter 6. Front-end Communities,",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Newsletters, News Sites, & Podcasts",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "General Front-End Newsletters, News, & Podcasts:",
+      "page": 144,
+      "children": [
+        {
+          "level": "H1",
+          "text": "The Big Web Show",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Dev Tips",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front End Happy Hour",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-End Front",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-end Focus",
+          "page": 144,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Web Platform News Weekly",
+      "page": 144,
+      "children": [
+        {
+          "level": "H1",
+          "text": "ShopTalk Show",
+          "page": 144,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "UX Design Newsletter",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Web Development Reading List",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "The Web Platform Podcast",
+      "page": 144,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Web Tools Weekly",
+          "page": 144,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "Fresh Brewed Front-end",
+      "page": 144,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Pony Foo Weekly",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "CSS-Tricks",
+          "page": 144,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "syntax.",
+          "page": 144,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "HTML/CSS Newsletters:",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Accessibility Weekly",
+      "page": 144,
+      "children": [
+        {
+          "level": "H1",
+          "text": "CSS Weekly",
+          "page": 144,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "csslayout.news",
+      "page": 144,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "JavaScript Newsletters, News, & Podcasts:",
+      "page": 145,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "Awesome JavaScript Newsletter",
+      "page": 145,
+      "children": [
+        {
+          "level": "H1",
+          "text": "Echo JS",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ECMAScript Daily",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "ES.next News",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JavaScript Jabber",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JavaScript Kicks",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JavaScript Weekly",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "React Status",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JS Party",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "JAMStack Radio",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "My JavaScript Story",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Front-End Communities",
+          "page": 145,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "http://fedsonslack.com/",
+      "page": 145,
+      "children": [
+        {
+          "level": "H1",
+          "text": "front-end on spectrum.",
+          "page": 145,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Notes:",
+          "page": 145,
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": "TITLE",
+      "text": "l. Need more Newsletters, News Sites, & Podcasts look at Awesome Newsletter.",
+      "page": 145,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "n. Find local front-end development communities by searching",
+      "page": 145,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "https://www.meetup.com/",
+      "page": 145,
+      "children": []
+    }
+  ]
+}
