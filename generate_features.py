@@ -18,8 +18,8 @@ def generate_features(df):
 
 # Run
 if __name__ == "__main__":
-    # Use labled_lines for train and extracted_lines for validation
+    # Use labeled_lines for train and extracted_lines for validation
     df = pd.read_csv("dataset/extracted_lines.csv", encoding='utf-8-sig')  
     df = generate_features(df)
     df.to_csv("dataset/processed_lines.csv", index=False)
-    print("✅ Features saved to dataset/processed_labeled_lines.csv")
+    print("✅ Features saved to dataset/processed_lines.csv")

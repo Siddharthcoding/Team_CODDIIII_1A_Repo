@@ -1,41 +1,39 @@
 text,label,page
-"Front-end Developer Handbook 2019",title,1
-"Overview:",h1,1
-"What is in this Handbook:",h1,1
-"Chapter 0. Recap of 2018 and Looking Forward",h1,2
-"0.1 — Recap of Front-end Development in 2018",h2,2
-"React had several notable releases this past year...",body,2
-"Vue gets more Github stars than React this year...",body,2
-"Google offered some neat tools this year...",body,2
-"Microsoft buys Github. Yeah, that happened.",body,2
-"Most developers found GraphQL, via Apollo...",body,2
-"The 2018 Front-End Tooling survey is worth reading...",body,2
-"0.2 — In 2019, Expect...",h2,3
-"Hopefully, more of this to come. \"Stepping away...",body,3
-"Babel will get some competition from swc-project.",body,3
-"Web Components! At this point, I have no idea...",body,3
-"Chapter 1. What Is a Front-end Developer?",h1,4
-"A Front-end Developer...",h2,4
-"A front-end developer architects and develops...",body,4
-"The objective of designing a site is to ensure...",body,4
-"Chapter 2. The Practice of Front-end Development: Overview",h1,5
-"2.1 - How Front-End Developers Are Made",h2,5
-"If you were to set out today to become a front-end developer...",body,5
-"Learn HTML",body,5
-"Learn CSS",body,5
-"Learn JavaScript",body,5
-"2.2 - Front-End Job Titles",h2,6
-"Front-End Developer: The generic job title...",body,6
-"CSS/HTML Developer: The front-end job title that describes...",body,6
-"UI (User Interface) Developer/Engineer: When...",body,6
-"Front-End SEO Expert: When the word \"SEO\" is included...",body,7
-"2.3 - Baseline Web Technologies Employed by Front-End Developers",h2,7
-"Hyper Text Markup Language (aka HTML)",h3,7
-"Cascading Style Sheets (aka CSS)",h3,8
-"Uniform Resource Locators (aka URLs)",h3,8
-"Hypertext Transfer Protocol (aka HTTP)",h3,9
-"JavaScript Programming Language (aka ECMAScript 262)",h3,9
-"Document Object Model (aka DOM)",h3,10
-"JavaScript Object Notation (aka JSON)",h3,10
-"Web APIs (aka HTML5 and friends or Browser APIs)",h3,10
-"Web Content Accessibility Guidelines (aka WCAG)",h3,11
+"IMPACT STORY",title,1
+"HDX SIGNALS ALERTING HUMANITARIANS TO DETERIORATING CRISES",h1,1
+
+"Summary",h2,2
+"Every day, new information is produced about dozens of humanitarian crises around the world, yet critical warning signs can often go unnoticed.",body,2
+"To address these challenges, OCHA’s Centre for Humanitarian Data developed HDX Signals...",body,2
+"Launched publicly in June 2024, HDX Signals uses advanced analysis and AI-powered summaries...",body,2
+"As of February 2025, HDX Signals covers 200 locations and five topics: agricultural hotspots, conflict events, displacement, food insecurity and market prices.",body,2
+"To date, CERF has used HDX Signals to inform allocations totaling more than US$46 million...",body,2
+
+"DISPLACEMENTS",h2,2
+"In 2024–2025, non-international armed conflict and communal violence caused internal displacement in the DRC...",body,2
+"Territories affected include Masisi, Kalehe, Lubero, Fizi, Walikale, as well as health zones like Itombwe, Oicha, and Pinga.",body,2
+
+"The Challenge",h1,3
+"The consequences of delays in recognizing and responding to deteriorating humanitarian crises can be devastating.",body,3
+"Early detection is hindered by difficulty detecting conditions, overwhelming data, and slow analysis.",body,3
+"OCHA platforms such as ReliefWeb and HDX publish a constant stream of fragmented information.",body,3
+
+"The Solution",h1,4
+"HDX Signals was created to bridge the gap between available data and actionable insights.",body,4
+"Each Signal includes a headline, five-year trendline, map, summary text, and data source links.",body,4
+"HDX Signals uses OpenAI’s GPT-4o to generate summaries reviewed by analysts for accuracy.",body,4
+"CERF cited HDX Signals to increase emergency allocations in response to major displacement in DRC.",body,4
+"A July 2024 Signal showed Namibia's worst drought in 100 years, prompting rapid CERF funding.",body,4
+"In December 2024, HDX Signals confirmed emerging gang violence in Haiti, supporting IRC readiness.",body,4
+"In October 2024, flooding in Nigeria triggered a disaster-driven displacement Signal, enabling GOALPrime to act fast.",body,4
+
+"Testimonial",h2,5
+"“HDX Signals is saving us time and money. It was pivotal to helping us secure grants...” – Mohammed Bannama Mohammed, GOALPrime Nigeria",body,5
+
+"Looking Ahead",h1,6
+"OCHA will expand HDX Signals with new alerts including INFORM Severity and FloodScan.",body,6
+"FloodScan provides daily estimates on the global extent of floods using satellite imagery.",body,6
+"HDX Signals is publicly available. Sign up today to receive alerts and enhance your awareness.",body,6
+
+"Credits",h2,6
+"Author: Kate Katch | Cover photo credit: OCHA/Francis Mweze (Feb 7, 2024, Masisi, DRC)",body,6

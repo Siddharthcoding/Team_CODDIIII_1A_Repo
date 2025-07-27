@@ -2,3 +2,5 @@ pandas
 scikit-learn
 joblib
 pdfplumber
+pytesseract
+pillow

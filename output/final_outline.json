@@ -1,159 +1,309 @@
 {
-  "title": "1. Name of the Government Servant",
+  "title": "Peer Review Framework for Predictive Analytics",
   "outline": [
     {
-      "level": "H1",
-      "text": "1. Name of the Government Servant",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "Designation",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "2.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "3.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "Service",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "4. PAY + SI + NPA",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "5.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "6. Home Town as recorded in the Service Book",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "7.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "8.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "LTC is to be availed.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "9. India, the place to be visited.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "10.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "S.No Name Age Relationship",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "1.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "2.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "11. 3.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "4.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "5.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "6.",
-      "page": 1,
-      "children": []
-    },
-    {
-      "level": "H1",
-      "text": "12.",
+      "level": "TITLE",
+      "text": "Peer Review Framework for Predictive Analytics",
       "page": 1,
       "children": []
     },
     {
       "level": "TITLE",
-      "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge. I",
+      "text": "in Humanitarian Response",
       "page": 1,
       "children": []
     },
     {
       "level": "TITLE",
-      "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "text": "MODEL REPORT:",
       "page": 1,
       "children": []
     },
     {
       "level": "TITLE",
-      "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+      "text": "Drought Anticipatory Action",
       "page": 1,
       "children": []
     },
     {
       "level": "TITLE",
-      "text": "advance, I undertake to refund the entire advance in one lump sum.",
+      "text": "Trigger in Burkina Faso",
+      "page": 1,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "UN OCHA",
+      "page": 1,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "December 2022",
       "page": 1,
       "children": [
         {
           "level": "H1",
-          "text": "Date",
-          "page": 1,
+          "text": "Model Report:",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Drought Anticipatory Action Trigger in Burkina Faso",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "1. Background",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "The review has been conducted between May and December 2022.",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "2. Main Findings and Recommendations",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "at the following links:",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Red Cross Red Crescent Climate Centre.",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "framework in Burkina Faso.",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "November 2022.",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "2.1 Technical Review",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Intended Use",
+          "page": 2,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "geographical targeting is performed given the coarse resolution.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Model Development and Documentation",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "particular due to the limited hindcast.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "windows should be specified.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Model Evaluation",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "conflict-affected country is very much needed.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Operational Readiness",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "re-examined to improve trust in the trigger system.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "2.2 Ethical Review",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Effectiveness: Regional Selection",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "particular why Est was not included and Boucle de Mouhoun was.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Effectiveness: Focus on Drought",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "factors were not included.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Effectiveness: Sub-regional Targeting",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "will be targeted by the UN agencies implementing the interventions.",
+          "page": 3,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Efficiency and Feasibility: Best Use of Resources",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "duplication, is lacking.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "FEWS NET and CH/IPC.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Efficiency and feasibility: Risk/harm-benefit Analysis",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "from the framework.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "\u25cf Recommendation: Perform a full risk/harm-benefit analysis.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Accountability and Community Participation",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "authorities in the design of the framework.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "model to local civil society, affected populations and authorities.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "UEMOA and the RCPA.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Neutrality, Impartiality and Conflict-sensitivity",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "assessment.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Trustworthiness and Reliability",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Transparency and Explainability",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "of the trigger decisions.",
+          "page": 4,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Human in the Loop",
+          "page": 5,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Feedback",
+          "page": 5,
+          "children": []
+        },
+        {
+          "level": "H1",
+          "text": "Framework tocentrehumdata@un.org.",
+          "page": 5,
           "children": []
         }
       ]

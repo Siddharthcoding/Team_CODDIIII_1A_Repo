@@ -1,15 +1,13 @@
+from collections import Counter
+from joblib import dump
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
-from joblib import dump
-from collections import Counter
 
 # Load dataset
 df = pd.read_csv("dataset/processed_lines.csv", encoding='utf-8-sig')
 df.columns = df.columns.str.strip()
-
-print("Labels:\n", df['label'].value_counts())
 
 feature_cols = [
     'char_len', 'word_count',
@@ -20,15 +18,14 @@ feature_cols = [
 X = df[feature_cols]
 y = df['label']
 
-# Add label safety: handle low sample classes (like "title")
+# Handle rare classes
 label_counts = Counter(y)
-min_class_count = min(label_counts.values())
+rare_labels = [label for label, count in label_counts.items() if count < 2]
 
-if min_class_count < 2:
-    print(f"⚠️ Not using stratify — found class(es) with <2 samples:")
-    for label, count in label_counts.items():
-        if count < 2:
-            print(f"    • '{label}': {count} sample(s)")
+if rare_labels:
+    print("⚠️ Rare classes found (using all — no stratify):")
+    for label in rare_labels:
+        print(f"   • {label}: {label_counts[label]} sample(s)")
     stratify_arg = None
 else:
     stratify_arg = y
@@ -38,10 +35,12 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, stratify=stratify_arg, random_state=42
 )
 
-clf = LogisticRegression(max_iter=1000)
+# Use class balancing
+clf = LogisticRegression(max_iter=2000, class_weight='balanced')
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 
+# Report
 print("\n📊 Classification Report:")
 print(classification_report(y_test, y_pred))
 
