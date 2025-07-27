@@ -1,0 +1,29 @@
+{
+  "title": "Hello World",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Hello World",
+      "page": 1,
+      "children": []
+    },
+    {
+      "level": "H1",
+      "text": "How are you?",
+      "page": 1,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "This is an example of a PDF document",
+      "page": 1,
+      "children": []
+    },
+    {
+      "level": "TITLE",
+      "text": "In Russian without other symbols.",
+      "page": 1,
+      "children": []
+    }
+  ]
+}
